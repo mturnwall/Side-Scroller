@@ -1,0 +1,30 @@
+#wrapper {
+    margin: 0 auto;
+    width:900px;
+}
+a img {
+    border: 0;
+}
+#sideScroller {
+    width: 818px;
+    height: 96px;
+    overflow: hidden;
+}
+#nextBtn, #prevBtn {
+    float: left;
+}
+#scrollerMask2 {
+    padding: 9px 0;
+    width: 420px;
+    height: 78px;
+    position: relative;
+    float: left;
+    overflow: hidden;
+}
+#scroller {
+    position: absolute;
+}
+#scroller a {
+    float: left;
+    margin-left: 5px;
+}
